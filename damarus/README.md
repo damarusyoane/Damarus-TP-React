@@ -52,3 +52,32 @@ export default tseslint.config({
   },
 })
 ```
+
+# Gestion de Clients - React + TypeScript
+
+Une application React avec TypeScript pour gérer les clients (CRUD) en utilisant un serveur JSON comme backend.
+
+## Fonctionnalités
+
+- **Créer** un nouveau client
+- **Lire** la liste des clients existants
+- **Mettre à jour** les informations d'un client
+- **Supprimer** un client
+- Interface utilisateur intuitive avec React
+- Typage fort avec TypeScript
+- Persistance des données via un serveur JSON
+
+## Technologies utilisées
+
+- React 18+
+- TypeScript
+- React Router (pour la navigation si nécessaire)
+- Axios/Fetch (pour les requêtes HTTP)
+- JSON Server (pour le backend simulé)
+- Tailwind (pour le styling)
+
+## Installation
+
+1. Cloner le dépôt :
+   ```bash
+   git clone [URL_DU_DEPOT]
